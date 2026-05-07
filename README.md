@@ -25,5 +25,5 @@ Estudante de ADS no 1º semestre, começando do zero em programação.
 - `/anotacoes` — resumos de aulas
 
 ## 📫 Contato
-- LinkedIn: [seu-link]
-- Email: [seu-email]
+- LinkedIn: [(https://www.linkedin.com/in/juan-pedro-almeida-6308a43a0/)]
+- Email: [jp.almeida2506@gmai.com]
