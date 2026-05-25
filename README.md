@@ -36,3 +36,10 @@ dividido em 7 fases ao longo do ano. Stack:
 - Banco: Oracle (SQL)
 - Metodologia: Scrum
   
+## 📖 Conceitos que estou dominando
+
+### Fase 1
+- ✅ Cap 01 - Domínio Financeiro: contexto do projeto Fintech
+- ✅ Cap 02 - Engenharia de Software: ciclos, manutenções, papéis
+- ⏳ Cap 03 - (próximo)
+- 
