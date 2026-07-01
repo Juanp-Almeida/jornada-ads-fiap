@@ -26,7 +26,7 @@ Estudante de ADS no 1º semestre, começando do zero em programação.
 
 ## 📫 Contato
 - LinkedIn: [(https://www.linkedin.com/in/juan-pedro-almeida-6308a43a0/)]
-- Email: [jp.almeida2506@gmai.com]
+- Email: [jp.almeida2506@gmail.com]
 ## 🎯 Projeto do 1º Ano: App Fintech
 
 Estou desenvolvendo um sistema web para controle financeiro pessoal,
