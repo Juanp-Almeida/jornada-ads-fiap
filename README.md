@@ -41,5 +41,6 @@ dividido em 7 fases ao longo do ano. Stack:
 ### Fase 1
 - ✅ Cap 01 - Domínio Financeiro: contexto do projeto Fintech
 - ✅ Cap 02 - Engenharia de Software: ciclos, manutenções, papéis
-- ⏳ Cap 03 - (próximo)
+- ✅ Cap 03 - RUP, Sprint, Backlog, Cascata, Espiral...
+- 
 - 
