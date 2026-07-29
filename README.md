@@ -44,7 +44,7 @@ dividido em 7 fases ao longo do ano. Stack:
 - ✅ Cap 03 - RUP, Sprint, Backlog, Cascata, Espiral...
 - ✅ Cap 04 - Métodos Ágeis: Scrum (empirismo, pilares, DoD), Kanban, WIP, Lean
 - ✅ Cap 05 - User Stories: formato "Como/quero/para", 3Cs, INVEST, épicos, Gherkin/BDD
-- ✅ Cap 6 - Levantamento de Requisitos (produto/projeto, funcional/não funcional, negócio/tecnologia), FURPS, Design Thinking
+- ✅ Cap 06 - Levantamento de Requisitos (produto/projeto, funcional/não funcional, negócio/tecnologia), FURPS, Design Thinking
 
 
 
